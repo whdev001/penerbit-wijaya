@@ -73,6 +73,83 @@
       "judul": "Buku Kesehatan, DM, Tatalaksana",
       "desc": "Buku Kesehatan Dia..",
       "harga": "Rp. 75.000"
+    },
+    {
+      "image": "img/blog/blog15.png",
+      "link": "buku/mananak.html",
+      "judul": "Buku Panduan, Anak, Demam",
+      "desc": "Buku Panduan Manajemen..",
+      "harga": "Rp. 50.000"
+    },
+    {
+      "image": "img/blog/blog16.png",
+      "link": "buku/evidence.html",
+      "judul": "Buku Panduan, Perawat, Praktek",
+      "desc": "Penerapan Evidence-Based..",
+      "harga": "Rp. 56.000"
+    },
+    {
+      "image": "img/blog/blog17.png",
+      "link": "buku/paliatif.html",
+      "judul": "ASKEP, Perawat, Empati",
+      "desc": "Asuhan Keperawatan Palia..",
+      "harga": "Rp. 63.000"
+    },
+    {
+      "image": "img/blog/blog18.png",
+      "link": "buku/terapeutik.html",
+      "judul": "Komunikasi, Modul, Terapeutik",
+      "desc": "MODUL KOMUNIKASI TERAP..",
+      "harga": "Rp. 58.000"
+    },
+    {
+      "image": "img/blog/blog19.png",
+      "link": "buku/eduortu.html",
+      "judul": "Panduan, Edukasi, Anak",
+      "desc": "PANDUAN EDUKASI ORA..",
+      "harga": "Rp. 67.000"
+    },
+    {
+      "image": "img/blog/blog20.png",
+      "link": "buku/ringkas1.html",
+      "judul": "Ringkas, Elektrolit, Manajemen",
+      "desc": "BUKU RINGKAS MANAJEMEN..",
+      "harga": "Rp. 53.000"
+    },
+    {
+      "image": "img/blog/blog21.png",
+      "link": "buku/askeph.html",
+      "judul": "Hipertensi, Perawat, Buku Ajar",
+      "desc": "BUKU AJAR Asuhan..",
+      "harga": "Rp. 56.000"
+    },
+    {
+      "image": "img/blog/blog22.png",
+      "link": "buku/mannyeri.html",
+      "judul": "Manajemen, Buku Panduan, Nyeri",
+      "desc": "Panduan Manajemen..",
+      "harga": "Rp. 55.000"
+    },
+    {
+      "image": "img/blog/blog23.png",
+      "link": "buku/kephtt.html",
+      "judul": "Modul, head To Toe, Kajian",
+      "desc": "Modul Pengkajian Ke..",
+      "harga": "Rp. 53.000"
+    },
+    {
+      "image": "img/blog/blog24.png",
+      "link": "buku/lukakronis.html",
+      "judul": "Dressing, Perawat, kronis",
+      "desc": "BUKU SAKU TEKNIK M..",
+      "harga": "Rp. 62.000"
+    },
+    {
+      "image": "img/blog/blog25.png",
+      "link": "buku/prioritas.html",
+      "judul": "Panduan, KGD, Prioritas",
+      "desc": "PANDUAN PRAKTIS Pen..",
+      "harga": "Rp. 67.000"
     }
 
 
@@ -666,3 +743,4 @@
 
 
 })(jQuery);
+

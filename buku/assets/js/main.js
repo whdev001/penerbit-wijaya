@@ -414,3 +414,4 @@
 	};
 
 })(jQuery);
+console.log("© 2022 Muhamad Bari. All Rights Reserved.");
