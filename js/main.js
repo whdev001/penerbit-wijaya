@@ -150,6 +150,13 @@
       "judul": "Panduan, KGD, Prioritas",
       "desc": "PANDUAN PRAKTIS Pen..",
       "harga": "Rp. 67.000"
+    },
+    {
+      "image": "img/blog/blog26.png",
+      "link": "buku/askeb-kehamilan.html",
+      "judul": "ASKEB, Kehamilan, Buku Ajar",
+      "desc": "Asuhan Kebidanan Ke..",
+      "harga": "Rp. 65.000"
     }
 
 
